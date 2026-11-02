@@ -1,6 +1,6 @@
-# GH-033 bounded production differential
+# GH033 benign production attribution control
 
 ```mermaid
 flowchart LR
-  A["<a href='javascript&#58;document.documentElement.dataset.gh033LiveSanitizer=1'>GH033_LIVE_SANITIZER_TOKEN</a>"]
+  A["GH033_PROD_ATTRIBUTION_20261101"] --> B["benign"]
 ```
