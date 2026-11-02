@@ -1,6 +1,7 @@
 # GH-033 bounded production differential
 
 ```mermaid
+%%{init: {"themeCSS":".node rect{fill:url('/gh033-live-theme-404.svg?case=GH033_LIVE_THEMECSS_TOKEN#paint')}"}}%%
 flowchart LR
-  A["<a href='javascript&#58;document.documentElement.dataset.gh033LiveSanitizer=1'>GH033_LIVE_SANITIZER_TOKEN</a>"]
+  A[GH033_LIVE_THEMECSS_TOKEN] --> B[control]
 ```
