@@ -1,2 +1,6 @@
-# gh033-mermaid-prod-attribution-20261101
-Benign GitHub Mermaid production-render attribution control for authorized GH033 audit
+# GH033 benign production attribution control
+
+```mermaid
+flowchart LR
+  A["GH033_PROD_ATTRIBUTION_20261101"] --> B["benign"]
+```
